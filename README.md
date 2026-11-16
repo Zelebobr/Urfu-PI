@@ -1,3 +1,4 @@
+HEAD
 ## Urfu-PI 
 # 1. Установка SSH-клиента и генерация ключевой пары
 с помощью команды ssh-keygen -t ed25519 были сгенерированы 2 ключа и установлен пароль:
@@ -15,3 +16,5 @@
 # 4. Работа с репозиторием по SSH
 Для клонирования репозитория используем команду git clone git@github.com:Zelebobr/Urfu-PI.git с помощью cd Urfu-PI переходим в нужный каталог и изменяем файл README, используем git add README.md и git commit:
 <img width="576" height="101" alt="image" src="https://github.com/user-attachments/assets/33e63e1d-06da-4a3e-a985-eba8a7cffd02" />
+## TEST COMMIT
+378f024 (Test SSH push)
